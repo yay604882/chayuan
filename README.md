@@ -1,12 +1,12 @@
 # 茶苑游戏
 
-<font color=#00CED1	 size=18 face="微软雅黑">《JJ互动娱》  
-  给您带来超爽的游戏体验！场景精美，玩法丰富，节奏明快，让你体验全新的娱乐盛宴。</font>
+<font color=#00CED1	 size=18 face="微软雅黑"> 茶苑游戏
+  别具一格的设计风格，总有一款适合你，看对眼了，就你了，还等什么呢，多人PK，好友聚战走起。</font>
 
 
-![image](https://github.com/yay604882/jjhy/blob/master/jjhy.jpg)
+![image](https://github.com/yay604882/chayuan/blob/master/chayuan.jpg)
 
 
-[联系电话](+86-17129840588) : [+86-17129840588](+86-17129840588)
 
-[我们的邮箱](sdf556asfda@yandex.com) : [sdf556asfda@yandex.com](sdf556asfda@yandex.com)
+
+[我们的邮箱](zbnmc@yandex.com) : [zbnmc@yandex.com](zbnmc@yandex.com)
